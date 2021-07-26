@@ -1,0 +1,3 @@
+rootProject.name = "Vakill"
+include ':app'
+include ':BarExamlibrary'
